@@ -1,5 +1,4 @@
-https://github.com/alof2004/alof2004/blob/output/github-contribution-grid-snake.svg)
-<table>
+  ![Snake animation](https://raw.githubusercontent.com/alof2004/alof2004/output/github-contribution-grid-snake-dark.svg)<table>
   <tr>
     <td>
       <img
