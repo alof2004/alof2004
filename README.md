@@ -1,11 +1,7 @@
   ![Snake animation](https://raw.githubusercontent.com/alof2004/alof2004/output/github-contribution-grid-snake-dark.svg)<table>
   <tr>
     <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=alof2004&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=alof2004&show_icons=true&theme=dark#gh-dark-mode-only" /><br>
     </td>
     <td>
       <img
