@@ -32,7 +32,7 @@
   >
     <img
       width="800"
-      src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)"
+      src="https://github-profile-trophy.vercel.app/?username=alof2004&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
