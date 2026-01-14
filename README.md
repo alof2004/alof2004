@@ -1,25 +1,4 @@
-  ![Snake animation](https://raw.githubusercontent.com/alof2004/alof2004/output/github-contribution-grid-snake-dark.svg)<table>
-  <tr>
-    <td>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=alof2004&show_icons=true&theme=dark#gh-dark-mode-only" /><br>
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=alof2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=alof2004&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+  ![Snake animation](https://raw.githubusercontent.com/alof2004/alof2004/output/github-contribution-grid-snake-dark.svg)
 
 
 ---
