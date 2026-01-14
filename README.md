@@ -21,34 +21,9 @@
   </tr>
 </table>
 
---- 
-
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=alof2004&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
 
 ---
 
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/alof2004/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
 
 
 ## 💻 Programming Languages and Tools:
